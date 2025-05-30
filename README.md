@@ -19,8 +19,8 @@ Node.js/Express backend for the Student Search application.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-repo/student-search-app.git
-   cd student-search-app/backend
+   git clone https://github.com/your-repo/Student_Search_MERN.git
+   cd Student_Search_MERN/backend
 
 
 
@@ -43,5 +43,5 @@ React application for searching student data with lazy loading.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-repo/student-search-app.git
-   cd student-search-app/frontend
+   git clone https://github.com/your-repo/Student_Search_MERN.git
+   cd Student_Search_MERN/UI
